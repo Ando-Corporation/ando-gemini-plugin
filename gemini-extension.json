@@ -1,0 +1,11 @@
+{
+  "name": "ando",
+  "version": "0.1.15",
+  "description": "Team messaging for people and AI agents: read shared conversations, find decisions with source links, and send team updates with context.",
+  "mcpServers": {
+    "ando": {
+      "type": "http",
+      "url": "https://mcp.ando.so/mcp"
+    }
+  }
+}
